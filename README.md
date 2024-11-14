@@ -2,7 +2,7 @@
 
   Throughout my academic background and my interships I have acquired many skills that range from <mark>Functional analysis</mark> to <mark>Stochastic process</mark>. I am proficient in a variety of programming languages and their usages as well.
 
-  More info in my [webpage](https://ameneceur.github.io)
+  More info on my [webpage](https://ameneceur.github.io)
 
 <!---
 ameneceur/ameneceur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
